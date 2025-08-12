@@ -2,6 +2,4 @@
 
 A minimal **Flask** web application demonstrating a complete workflow from **local development** to **GitHub hosting** and **Docker containerization**.
 
-
-Tests trigger builds
 #trigger build
